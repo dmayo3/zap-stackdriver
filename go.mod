@@ -1,4 +1,4 @@
-module github.com/tommy351/zap-stackdriver
+module github.com/dmayo3/zap-stackdriver
 
 go 1.14
 
